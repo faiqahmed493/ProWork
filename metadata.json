@@ -1,0 +1,8 @@
+{
+  "name": "Employee(This Month) proposed design",
+  "description": "An interactive employee productivity, attendance, time-tracking, and task analytics dashboard with drill-down charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
